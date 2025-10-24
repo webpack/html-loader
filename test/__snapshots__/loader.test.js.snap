@@ -147,7 +147,7 @@ var ___HTML_LOADER_IMPORT_5___ = new URL("./image.png?foo=bar,baz", import.meta.
 var ___HTML_LOADER_IMPORT_6___ = new URL("./image.png?bar=baz,foo", import.meta.url);
 var ___HTML_LOADER_IMPORT_7___ = new URL("./example.ogg", import.meta.url);
 var ___HTML_LOADER_IMPORT_8___ = new URL("./example.pdf", import.meta.url);
-var ___HTML_LOADER_IMPORT_9___ = new URL("https://github.com/webpack-contrib/css-loader/blob/master/src/index.js", import.meta.url);
+var ___HTML_LOADER_IMPORT_9___ = new URL("https://github.com/webpack/css-loader/blob/main/src/index.js", import.meta.url);
 var ___HTML_LOADER_IMPORT_10___ = new URL("./example.vtt", import.meta.url);
 var ___HTML_LOADER_IMPORT_11___ = new URL("./style.file.css", import.meta.url);
 var ___HTML_LOADER_IMPORT_12___ = new URL("data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==", import.meta.url);
@@ -166,7 +166,7 @@ var ___HTML_LOADER_IMPORT_24___ = new URL("./video.mp4", import.meta.url);
 var ___HTML_LOADER_IMPORT_25___ = new URL("./nested/image3.png", import.meta.url);
 var ___HTML_LOADER_IMPORT_26___ = new URL("/nested/image3.png", import.meta.url);
 var ___HTML_LOADER_IMPORT_27___ = new URL("./noscript.png", import.meta.url);
-var ___HTML_LOADER_IMPORT_28___ = new URL("https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png", import.meta.url);
+var ___HTML_LOADER_IMPORT_28___ = new URL("https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png", import.meta.url);
 var ___HTML_LOADER_IMPORT_29___ = new URL("./😀abc.png", import.meta.url);
 import ___HTML_LOADER_GET_SOURCE_FROM_IMPORT___ from "../../src/runtime/getUrl.js";
 // Module
@@ -729,7 +729,7 @@ replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 2x
   <input type="image" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Submit">
 </form>
 
-<script src="replaced_file_protocol_/webpack/public/path/index-c66d8cbdff7a4fa3.js"></script>
+<script src="replaced_file_protocol_/webpack/public/path/index-5ea1d20175a9f211.js"></script>
 
 <audio controls>
   <source src="replaced_file_protocol_/webpack/public/path/example-f925bf8882bfbb97.ogg" type="audio/ogg">
@@ -1514,7 +1514,7 @@ var code = \`<!doctype html>
   <input type="image" src="\${___HTML_LOADER_IMPORT_0___}" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="\${___HTML_LOADER_IMPORT_7___}" type="audio/ogg">
@@ -1862,7 +1862,7 @@ alt" />
   <img src="\${___HTML_LOADER_IMPORT_26___}" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="\${___HTML_LOADER_IMPORT_27___}" alt="Smiley face">
 <img src="\${___HTML_LOADER_IMPORT_27___}" alt="Smiley face">
 <img srcset="\${___HTML_LOADER_IMPORT_27___} 480w, \${___HTML_LOADER_IMPORT_0___} 800w" sizes="(max-width: 600px) 480px, 800px" src="\${___HTML_LOADER_IMPORT_0___}" alt="Elva dressed as a fairy">
@@ -1973,7 +1973,7 @@ replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 2x
   <input type="image" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="replaced_file_protocol_/webpack/public/path/example-f925bf8882bfbb97.ogg" type="audio/ogg">
@@ -2321,7 +2321,7 @@ alt" />
   <img src="replaced_file_protocol_/webpack/public/path/noscript-f665d94d81cc897b.png" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img src="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img srcset="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png 480w, replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 800w" sizes="(max-width: 600px) 480px, 800px" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Elva dressed as a fairy">

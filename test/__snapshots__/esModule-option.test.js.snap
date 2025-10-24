@@ -134,7 +134,7 @@ var code = \`<!doctype html>
   <input type="image" src="\${___HTML_LOADER_IMPORT_0___}" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="\${___HTML_LOADER_IMPORT_7___}" type="audio/ogg">
@@ -482,7 +482,7 @@ alt" />
   <img src="\${___HTML_LOADER_IMPORT_26___}" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="\${___HTML_LOADER_IMPORT_27___}" alt="Smiley face">
 <img src="\${___HTML_LOADER_IMPORT_27___}" alt="Smiley face">
 <img srcset="\${___HTML_LOADER_IMPORT_27___} 480w, \${___HTML_LOADER_IMPORT_0___} 800w" sizes="(max-width: 600px) 480px, 800px" src="\${___HTML_LOADER_IMPORT_0___}" alt="Elva dressed as a fairy">
@@ -593,7 +593,7 @@ replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 2x
   <input type="image" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="replaced_file_protocol_/webpack/public/path/example-f925bf8882bfbb97.ogg" type="audio/ogg">
@@ -941,7 +941,7 @@ alt" />
   <img src="replaced_file_protocol_/webpack/public/path/noscript-f665d94d81cc897b.png" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img src="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img srcset="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png 480w, replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 800w" sizes="(max-width: 600px) 480px, 800px" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Elva dressed as a fairy">
@@ -1083,7 +1083,7 @@ var code = \`<!doctype html>
   <input type="image" src="\${___HTML_LOADER_IMPORT_0___}" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="\${___HTML_LOADER_IMPORT_7___}" type="audio/ogg">
@@ -1434,7 +1434,7 @@ ANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4
   <img src="\${___HTML_LOADER_IMPORT_24___}" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="\${___HTML_LOADER_IMPORT_25___}" alt="Smiley face">
 <img src="\${___HTML_LOADER_IMPORT_25___}" alt="Smiley face">
 <img srcset="\${___HTML_LOADER_IMPORT_25___} 480w, \${___HTML_LOADER_IMPORT_0___} 800w" sizes="(max-width: 600px) 480px, 800px" src="\${___HTML_LOADER_IMPORT_0___}" alt="Elva dressed as a fairy">
@@ -1545,7 +1545,7 @@ exports[`'esModule' option should use a CommonJS export when the value is "false
   <input type="image" src="/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="/webpack/public/path/example-f925bf8882bfbb97.ogg" type="audio/ogg">
@@ -1896,7 +1896,7 @@ ANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4
   <img src="/webpack/public/path/noscript-f665d94d81cc897b.png" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="/webpack/public/path/😀abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img src="/webpack/public/path/😀abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img srcset="/webpack/public/path/😀abc-7bc91c245a8a10a4.png 480w, /webpack/public/path/image-7bc91c245a8a10a4.png 800w" sizes="(max-width: 600px) 480px, 800px" src="/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Elva dressed as a fairy">
@@ -2040,7 +2040,7 @@ var code = \`<!doctype html>
   <input type="image" src="\${___HTML_LOADER_IMPORT_0___}" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="\${___HTML_LOADER_IMPORT_7___}" type="audio/ogg">
@@ -2388,7 +2388,7 @@ alt" />
   <img src="\${___HTML_LOADER_IMPORT_26___}" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="\${___HTML_LOADER_IMPORT_27___}" alt="Smiley face">
 <img src="\${___HTML_LOADER_IMPORT_27___}" alt="Smiley face">
 <img srcset="\${___HTML_LOADER_IMPORT_27___} 480w, \${___HTML_LOADER_IMPORT_0___} 800w" sizes="(max-width: 600px) 480px, 800px" src="\${___HTML_LOADER_IMPORT_0___}" alt="Elva dressed as a fairy">
@@ -2499,7 +2499,7 @@ replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 2x
   <input type="image" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Submit">
 </form>
 
-<script src="https://github.com/webpack-contrib/css-loader/blob/master/src/index.js"></script>
+<script src="https://github.com/webpack/css-loader/blob/main/src/index.js"></script>
 
 <audio controls>
   <source src="replaced_file_protocol_/webpack/public/path/example-f925bf8882bfbb97.ogg" type="audio/ogg">
@@ -2847,7 +2847,7 @@ alt" />
   <img src="replaced_file_protocol_/webpack/public/path/noscript-f665d94d81cc897b.png" alt="noscript content" />
 </noscript>
 
-<img src="https://raw.githubusercontent.com/webpack-contrib/html-loader/master/test/fixtures/image.png">
+<img src="https://raw.githubusercontent.com/webpack/html-loader/main/test/fixtures/image.png">
 <img src="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img src="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png" alt="Smiley face">
 <img srcset="replaced_file_protocol_/webpack/public/path/%F0%9F%98%80abc-7bc91c245a8a10a4.png 480w, replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 800w" sizes="(max-width: 600px) 480px, 800px" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Elva dressed as a fairy">

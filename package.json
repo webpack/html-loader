@@ -7,9 +7,9 @@
     "html",
     "loader"
   ],
-  "homepage": "https://github.com/webpack-contrib/html-loader",
-  "bugs": "https://github.com/webpack-contrib/html-loader/issues",
-  "repository": "webpack-contrib/html-loader",
+  "homepage": "https://github.com/webpack/html-loader",
+  "bugs": "https://github.com/webpack/html-loader/issues",
+  "repository": "webpack/html-loader",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/webpack"
@@ -27,7 +27,7 @@
     "prebuild": "npm run clean",
     "build": "cross-env NODE_ENV=production babel src -d dist --copy-files",
     "postbuild": "npm run validate:runtime",
-    "commitlint": "commitlint --from=master",
+    "commitlint": "commitlint --from=main",
     "security": "npm audit --production",
     "lint:prettier": "prettier --cache --list-different .",
     "lint:js": "eslint --cache .",

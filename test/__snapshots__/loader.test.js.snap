@@ -42,7 +42,7 @@ var code = \`<ul><li> \\\\u2028 - \\u2028 Text \\u2028 </li><li> \\\\u2029 - \\u
 export default code;"
 `;
 
-exports[`loader should not failed contain invisible spaces: result 1`] = `"<ul><li> \\u2028 -   Text   </li><li> \\u2029 -   Text   </li></ul>"`;
+exports[`loader should not failed contain invisible spaces: result 1`] = `"<ul><li> \\u2028 -   Text   </li><li> \\u2029 -   Text   </li></ul>"`;
 
 exports[`loader should not failed contain invisible spaces: warnings 1`] = `[]`;
 
@@ -729,7 +729,7 @@ replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png 2x
   <input type="image" src="replaced_file_protocol_/webpack/public/path/image-7bc91c245a8a10a4.png" alt="Submit">
 </form>
 
-<script src="replaced_file_protocol_/webpack/public/path/index-c66d8cbdff7a4fa3.js"></script>
+<script src="replaced_file_protocol_/webpack/public/path/index-5ea1d20175a9f211.js"></script>
 
 <audio controls>
   <source src="replaced_file_protocol_/webpack/public/path/example-f925bf8882bfbb97.ogg" type="audio/ogg">

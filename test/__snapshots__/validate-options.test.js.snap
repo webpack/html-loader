@@ -4,7 +4,7 @@ exports[`validate options should throw an error on the "esModule" option with "t
 "Invalid options object. HTML Loader has been initialized using an options object that does not match the API schema.
  - options.esModule should be a boolean.
    -> Enable or disable ES modules syntax.
-   -> Read more at https://github.com/webpack-contrib/html-loader#esmodule"
+   -> Read more at https://github.com/webpack/html-loader#esmodule"
 `;
 
 exports[`validate options should throw an error on the "minimize" option with "true" value 1`] = `
@@ -12,7 +12,7 @@ exports[`validate options should throw an error on the "minimize" option with "t
  - options.minimize should be one of these:
    boolean | object { … }
    -> Tell html-loader to minimize HTML.
-   -> Read more at https://github.com/webpack-contrib/html-loader#minimize
+   -> Read more at https://github.com/webpack/html-loader#minimize
    Details:
     * options.minimize should be a boolean.
     * options.minimize should be an object:
@@ -23,7 +23,7 @@ exports[`validate options should throw an error on the "preprocessor" option wit
 "Invalid options object. HTML Loader has been initialized using an options object that does not match the API schema.
  - options.preprocessor should be an instance of function.
    -> Allows pre-processing of content before handling.
-   -> Read more at https://github.com/webpack-contrib/html-loader#preprocessor"
+   -> Read more at https://github.com/webpack/html-loader#preprocessor"
 `;
 
 exports[`validate options should throw an error on the "sources" option with "[]" value 1`] = `
@@ -31,7 +31,7 @@ exports[`validate options should throw an error on the "sources" option with "[]
  - options.sources should be one of these:
    boolean | object { list?, urlFilter?, scriptingEnabled? }
    -> By default every loadable attributes (for example - <img src='image.png'>) is imported (const img = require('./image.png'). You may need to specify loaders for images in your configuration.
-   -> Read more at https://github.com/webpack-contrib/html-loader#sources
+   -> Read more at https://github.com/webpack/html-loader#sources
    Details:
     * options.sources should be a boolean.
     * options.sources should be an object:
@@ -85,7 +85,7 @@ exports[`validate options should throw an error on the "sources" option with "tr
  - options.sources should be one of these:
    boolean | object { list?, urlFilter?, scriptingEnabled? }
    -> By default every loadable attributes (for example - <img src='image.png'>) is imported (const img = require('./image.png'). You may need to specify loaders for images in your configuration.
-   -> Read more at https://github.com/webpack-contrib/html-loader#sources
+   -> Read more at https://github.com/webpack/html-loader#sources
    Details:
     * options.sources should be a boolean.
     * options.sources should be an object:

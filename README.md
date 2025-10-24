@@ -1160,10 +1160,10 @@ If you're new here, please take a moment to review our contributing guidelines b
 [npm-url]: https://npmjs.com/package/html-loader
 [node]: https://img.shields.io/node/v/html-loader.svg
 [node-url]: https://nodejs.org
-[tests]: https://github.com/webpack-contrib/html-loader/workflows/html-loader/badge.svg
-[tests-url]: https://github.com/webpack-contrib/html-loader/actions
-[cover]: https://codecov.io/gh/webpack-contrib/html-loader/branch/master/graph/badge.svg
-[cover-url]: https://codecov.io/gh/webpack-contrib/html-loader
+[tests]: https://github.com/webpack/html-loader/workflows/html-loader/badge.svg
+[tests-url]: https://github.com/webpack/html-loader/actions
+[cover]: https://codecov.io/gh/webpack/html-loader/branch/main/graph/badge.svg
+[cover-url]: https://codecov.io/gh/webpack/html-loader
 [discussion]: https://img.shields.io/github/discussions/webpack/webpack
 [discussion-url]: https://github.com/webpack/webpack/discussions
 [size]: https://packagephobia.now.sh/badge?p=html-loader

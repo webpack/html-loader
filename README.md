@@ -14,6 +14,14 @@
 
 # html-loader
 
+> [!WARNING]
+>
+> **`html-loader` is deprecated** — webpack treats HTML as a first-class module type and no longer needs it.
+>
+> Read the [Native HTML guide](https://webpack.js.org/guides/native-html/) and follow its [migration guide](https://webpack.js.org/guides/native-html/#migrating-from-html-loader).
+>
+> Existing setups keep working: built-in HTML support stays off for any `.html` rule that already has a loader, so you can migrate one rule at a time.
+
 Exports HTML as string. HTML is minimized when the compiler demands.
 
 ## Getting Started

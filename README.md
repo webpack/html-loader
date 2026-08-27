@@ -18,10 +18,9 @@
 >
 > **`html-loader` is deprecated** — webpack treats HTML as a first-class module type and no longer needs it.
 >
-> [`experiments.html`](https://webpack.js.org/configuration/experiments/#experimentshtml) defaults to `"auto"` since webpack 5.109.0, so `.html` files are parsed, the resources their attributes reference are bundled, and the markup is minified in production, all with no loader.
 > Read the [Native HTML guide](https://webpack.js.org/guides/native-html/) and follow its [migration guide](https://webpack.js.org/guides/native-html/#migrating-from-html-loader).
 >
-> `"auto"` leaves an `.html` rule that already has a loader on that loader, so existing setups keep working and can be migrated one rule at a time.
+> Existing setups keep working: built-in HTML support stays off for any `.html` rule that already has a loader, so you can migrate one rule at a time.
 
 Exports HTML as string. HTML is minimized when the compiler demands.
 
